@@ -1,0 +1,22 @@
+{
+    "name": "theme",
+    "displayName": "Palenight_DMG",
+    "publisher": "danimendezg",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Palenight DMG Version",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Palenight DMG Version-color-theme.json"
+            }
+        ]
+    }
+}

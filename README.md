@@ -1,1 +1,2 @@
-# vscode_palenight
+# README
+Modified Palenight Theme
